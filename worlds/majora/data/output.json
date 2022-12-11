@@ -1,0 +1,713 @@
+{
+  "items": [
+    {
+      "Name": "Deku Mask",
+      "Classification": 1,
+      "ID": 24000,
+      "GetItemIndex": 120
+    },
+    {
+      "Name": "Hero's Bow",
+      "Classification": 1,
+      "ID": 24001,
+      "GetItemIndex": 34
+    },
+    {
+      "Name": "Fire Arrow",
+      "Classification": 1,
+      "ID": 24002,
+      "GetItemIndex": 37
+    },
+    {
+      "Name": "Ice Arrow",
+      "Classification": 1,
+      "ID": 24003,
+      "GetItemIndex": 38
+    },
+    {
+      "Name": "Light Arrow",
+      "Classification": 1,
+      "ID": 24004,
+      "GetItemIndex": 39
+    },
+    {
+      "Name": "Bomb Bag",
+      "Classification": 1,
+      "ID": 24005,
+      "GetItemIndex": 27
+    },
+    {
+      "Name": "Magic Bean",
+      "Classification": 1,
+      "ID": 24006,
+      "GetItemIndex": 286
+    },
+    {
+      "Name": "Powder Keg",
+      "Classification": 1,
+      "ID": 24007,
+      "GetItemIndex": 291
+    },
+    {
+      "Name": "Pictograph Box",
+      "Classification": 1,
+      "ID": 24008,
+      "GetItemIndex": 67
+    },
+    {
+      "Name": "Lens of Truth",
+      "Classification": 1,
+      "ID": 24009,
+      "GetItemIndex": 66
+    },
+    {
+      "Name": "Hookshot",
+      "Classification": 1,
+      "ID": 24010,
+      "GetItemIndex": 65
+    },
+    {
+      "Name": "Great Fairy's Sword",
+      "Classification": 1,
+      "ID": 24011,
+      "GetItemIndex": 304
+    },
+    {
+      "Name": "Bombers' Notebook",
+      "Classification": 1,
+      "ID": 24012,
+      "GetItemIndex": 80
+    },
+    {
+      "Name": "Mirror Shield",
+      "Classification": 1,
+      "ID": 24013,
+      "GetItemIndex": 51
+    },
+    {
+      "Name": "Postman's Hat",
+      "Classification": 1,
+      "ID": 24014,
+      "GetItemIndex": 132
+    },
+    {
+      "Name": "All-Night Mask",
+      "Classification": 1,
+      "ID": 24015,
+      "GetItemIndex": 126
+    },
+    {
+      "Name": "Blast Mask",
+      "Classification": 1,
+      "ID": 24016,
+      "GetItemIndex": 141
+    },
+    {
+      "Name": "Stone Mask",
+      "Classification": 1,
+      "ID": 24017,
+      "GetItemIndex": 139
+    },
+    {
+      "Name": "Great Fairy's Mask",
+      "Classification": 1,
+      "ID": 24018,
+      "GetItemIndex": 305
+    },
+    {
+      "Name": "Keaton Mask",
+      "Classification": 1,
+      "ID": 24019,
+      "GetItemIndex": 128
+    },
+    {
+      "Name": "Bremen Mask",
+      "Classification": 1,
+      "ID": 24020,
+      "GetItemIndex": 140
+    },
+    {
+      "Name": "Bunny Hood",
+      "Classification": 1,
+      "ID": 24021,
+      "GetItemIndex": 127
+    },
+    {
+      "Name": "Don Gero's Mask",
+      "Classification": 1,
+      "ID": 24022,
+      "GetItemIndex": 136
+    },
+    {
+      "Name": "Mask of Scents",
+      "Classification": 1,
+      "ID": 24023,
+      "GetItemIndex": 142
+    },
+    {
+      "Name": "Romani's Mask",
+      "Classification": 1,
+      "ID": 24024,
+      "GetItemIndex": 130
+    },
+    {
+      "Name": "Circus Leader's Mask",
+      "Classification": 1,
+      "ID": 24025,
+      "GetItemIndex": 131
+    },
+    {
+      "Name": "Kafei's Mask",
+      "Classification": 1,
+      "ID": 24026,
+      "GetItemIndex": 143
+    },
+    {
+      "Name": "Couple's Mask",
+      "Classification": 1,
+      "ID": 24027,
+      "GetItemIndex": 133
+    },
+    {
+      "Name": "Mask of Truth",
+      "Classification": 1,
+      "ID": 24028,
+      "GetItemIndex": 138
+    },
+    {
+      "Name": "Kamaro's Mask",
+      "Classification": 1,
+      "ID": 24029,
+      "GetItemIndex": 137
+    },
+    {
+      "Name": "Gibdo Mask",
+      "Classification": 1,
+      "ID": 24030,
+      "GetItemIndex": 135
+    },
+    {
+      "Name": "Garo's Mask",
+      "Classification": 1,
+      "ID": 24031,
+      "GetItemIndex": 129
+    },
+    {
+      "Name": "Captain's Hat",
+      "Classification": 1,
+      "ID": 24032,
+      "GetItemIndex": 124
+    },
+    {
+      "Name": "Giant's Mask",
+      "Classification": 1,
+      "ID": 24033,
+      "GetItemIndex": 125
+    },
+    {
+      "Name": "Goron Mask",
+      "Classification": 1,
+      "ID": 24034,
+      "GetItemIndex": 121
+    },
+    {
+      "Name": "Zora Mask",
+      "Classification": 1,
+      "ID": 24035,
+      "GetItemIndex": 122
+    },
+    {
+      "Name": "Song of Healing",
+      "Classification": 1,
+      "ID": 24036,
+      "GetItemIndex": 292
+    },
+    {
+      "Name": "Song of Soaring",
+      "Classification": 2,
+      "ID": 24037,
+      "GetItemIndex": 112
+    },
+    {
+      "Name": "Epona's Song",
+      "Classification": 1,
+      "ID": 24038,
+      "GetItemIndex": 113
+    },
+    {
+      "Name": "Song of Storms",
+      "Classification": 1,
+      "ID": 24039,
+      "GetItemIndex": 114
+    },
+    {
+      "Name": "Sonata of Awakening",
+      "Classification": 1,
+      "ID": 24040,
+      "GetItemIndex": 115
+    },
+    {
+      "Name": "Goron Lullaby",
+      "Classification": 1,
+      "ID": 24041,
+      "GetItemIndex": 116
+    },
+    {
+      "Name": "New Wave Bossa Nova",
+      "Classification": 1,
+      "ID": 24042,
+      "GetItemIndex": 117
+    },
+    {
+      "Name": "Elegy of Emptiness",
+      "Classification": 1,
+      "ID": 24043,
+      "GetItemIndex": 459
+    },
+    {
+      "Name": "Oath to Order",
+      "Classification": 1,
+      "ID": 24044,
+      "GetItemIndex": 119
+    }
+  ],
+  "locations": {
+    "Starting Item": {
+      "Name": "Starting Item",
+      "Address": 0,
+      "Region": "Misc",
+      "ID": 24000,
+      "DefaultItem": "Deku Mask"
+    },
+    "Hero's Bow Chest": {
+      "Name": "Hero's Bow Chest",
+      "Address": 0,
+      "Region": "Woodfall Temple",
+      "ID": 24001,
+      "DefaultItem": "Hero's Bow"
+    },
+    "Fire Arrow Chest": {
+      "Name": "Fire Arrow Chest",
+      "Address": 0,
+      "Region": "Snowhead Temple",
+      "ID": 24002,
+      "DefaultItem": "Fire Arrow"
+    },
+    "Ice Arrow Chest": {
+      "Name": "Ice Arrow Chest",
+      "Address": 0,
+      "Region": "Great Bay Temple",
+      "ID": 24003,
+      "DefaultItem": "Ice Arrow"
+    },
+    "Light Arrow Chest": {
+      "Name": "Light Arrow Chest",
+      "Address": 0,
+      "Region": "Stone Tower Temple",
+      "ID": 24004,
+      "DefaultItem": "Light Arrow"
+    },
+    "Bomb Bag Purchase": {
+      "Name": "Bomb Bag Purchase",
+      "Address": 0,
+      "Region": "West Clock Town",
+      "ID": 24005,
+      "DefaultItem": "Bomb Bag"
+    },
+    "Bean Man": {
+      "Name": "Bean Man",
+      "Address": 0,
+      "Region": "Deku Palace",
+      "ID": 24006,
+      "DefaultItem": "Magic Bean"
+    },
+    "Powder Keg Challenge": {
+      "Name": "Powder Keg Challenge",
+      "Address": 0,
+      "Region": "Goron Village",
+      "ID": 24007,
+      "DefaultItem": "Powder Keg"
+    },
+    "Koume": {
+      "Name": "Koume",
+      "Address": 0,
+      "Region": "Southern Swamp",
+      "ID": 24008,
+      "DefaultItem": "Pictograph Box"
+    },
+    "Lens of Truth Chest": {
+      "Name": "Lens of Truth Chest",
+      "Address": 0,
+      "Region": "Goron Village",
+      "ID": 24009,
+      "DefaultItem": "Lens of Truth"
+    },
+    "Hookshot Chest": {
+      "Name": "Hookshot Chest",
+      "Address": 0,
+      "Region": "Pirates' Fortress Interior",
+      "ID": 24010,
+      "DefaultItem": "Hookshot"
+    },
+    "Ikana Great Fairy": {
+      "Name": "Ikana Great Fairy",
+      "Address": 0,
+      "Region": "Ikana Canyon",
+      "ID": 24011,
+      "DefaultItem": "Great Fairy's Sword"
+    },
+    "Bombers' Hide and Seek": {
+      "Name": "Bombers' Hide and Seek",
+      "Address": 0,
+      "Region": "North Clock Town",
+      "ID": 24012,
+      "DefaultItem": "Bombers' Notebook"
+    },
+    "Mirror Shield Chest": {
+      "Name": "Mirror Shield Chest",
+      "Address": 0,
+      "Region": "Beneath the Well",
+      "ID": 24013,
+      "DefaultItem": "Mirror Shield"
+    },
+    "Postman's Freedom Reward": {
+      "Name": "Postman's Freedom Reward",
+      "Address": 0,
+      "Region": "East Clock Town",
+      "ID": 24014,
+      "DefaultItem": "Postman's Hat"
+    },
+    "All-Night Mask Purchase": {
+      "Name": "All-Night Mask Purchase",
+      "Address": 0,
+      "Region": "West Clock Town",
+      "ID": 24015,
+      "DefaultItem": "All-Night Mask"
+    },
+    "Old Lady": {
+      "Name": "Old Lady",
+      "Address": 0,
+      "Region": "North Clock Town",
+      "ID": 24016,
+      "DefaultItem": "Blast Mask"
+    },
+    "Invisible Soldier": {
+      "Name": "Invisible Soldier",
+      "Address": 0,
+      "Region": "Road to Ikana",
+      "ID": 24017,
+      "DefaultItem": "Stone Mask"
+    },
+    "Town Great Fairy": {
+      "Name": "Town Great Fairy",
+      "Address": 0,
+      "Region": "North Clock Town",
+      "ID": 24018,
+      "DefaultItem": "Great Fairy's Mask"
+    },
+    "Curiosity Shop Man #1": {
+      "Name": "Curiosity Shop Man #1",
+      "Address": 0,
+      "Region": "Laundry Pool",
+      "ID": 24019,
+      "DefaultItem": "Keaton Mask"
+    },
+    "Guru Guru": {
+      "Name": "Guru Guru",
+      "Address": 0,
+      "Region": "Laundry Pool",
+      "ID": 24020,
+      "DefaultItem": "Bremen Mask"
+    },
+    "Grog": {
+      "Name": "Grog",
+      "Address": 0,
+      "Region": "Romani Ranch",
+      "ID": 24021,
+      "DefaultItem": "Bunny Hood"
+    },
+    "Hungry Goron": {
+      "Name": "Hungry Goron",
+      "Address": 0,
+      "Region": "Mountain Village",
+      "ID": 24022,
+      "DefaultItem": "Don Gero's Mask"
+    },
+    "Butler": {
+      "Name": "Butler",
+      "Address": 0,
+      "Region": "Deku Palace",
+      "ID": 24023,
+      "DefaultItem": "Mask of Scents"
+    },
+    "Cremia": {
+      "Name": "Cremia",
+      "Address": 0,
+      "Region": "Romani Ranch",
+      "ID": 24024,
+      "DefaultItem": "Romani's Mask"
+    },
+    "Gorman": {
+      "Name": "Gorman",
+      "Address": 0,
+      "Region": "East Clock Town",
+      "ID": 24025,
+      "DefaultItem": "Circus Leader's Mask"
+    },
+    "Madame Aroma in Office": {
+      "Name": "Madame Aroma in Office",
+      "Address": 0,
+      "Region": "East Clock Town",
+      "ID": 24026,
+      "DefaultItem": "Kafei's Mask"
+    },
+    "Anju and Kafei": {
+      "Name": "Anju and Kafei",
+      "Address": 0,
+      "Region": "Stock Pot Inn",
+      "ID": 24027,
+      "DefaultItem": "Couple's Mask"
+    },
+    "Swamp Spider House Reward": {
+      "Name": "Swamp Spider House Reward",
+      "Address": 0,
+      "Region": "Southern Swamp",
+      "ID": 24028,
+      "DefaultItem": "Mask of Truth"
+    },
+    "Kamaro": {
+      "Name": "Kamaro",
+      "Address": 0,
+      "Region": "Termina Field",
+      "ID": 24029,
+      "DefaultItem": "Kamaro's Mask"
+    },
+    "Pamela's Father": {
+      "Name": "Pamela's Father",
+      "Address": 0,
+      "Region": "Ikana Canyon",
+      "ID": 24030,
+      "DefaultItem": "Gibdo Mask"
+    },
+    "Gorman Bros Race": {
+      "Name": "Gorman Bros Race",
+      "Address": 0,
+      "Region": "Milk Road",
+      "ID": 24031,
+      "DefaultItem": "Garo's Mask"
+    },
+    "Captain Keeta's Chest": {
+      "Name": "Captain Keeta's Chest",
+      "Address": 0,
+      "Region": "Ikana Graveyard",
+      "ID": 24032,
+      "DefaultItem": "Captain's Hat"
+    },
+    "Giant's Mask Chest": {
+      "Name": "Giant's Mask Chest",
+      "Address": 0,
+      "Region": "Stone Tower Temple",
+      "ID": 24033,
+      "DefaultItem": "Giant's Mask"
+    },
+    "Darmani": {
+      "Name": "Darmani",
+      "Address": 0,
+      "Region": "Mountain Village",
+      "ID": 24034,
+      "DefaultItem": "Goron Mask"
+    },
+    "Mikau": {
+      "Name": "Mikau",
+      "Address": 0,
+      "Region": "Great Bay Coast",
+      "ID": 24035,
+      "DefaultItem": "Zora Mask"
+    },
+    "Starting Song": {
+      "Name": "Starting Song",
+      "Address": 0,
+      "Region": "Misc",
+      "ID": 24036,
+      "DefaultItem": "Song of Healing"
+    },
+    "Swamp Music Statue": {
+      "Name": "Swamp Music Statue",
+      "Address": 0,
+      "Region": "Southern Swamp",
+      "ID": 24037,
+      "DefaultItem": "Song of Soaring"
+    },
+    "Romani's Game": {
+      "Name": "Romani's Game",
+      "Address": 0,
+      "Region": "Romani Ranch",
+      "ID": 24038,
+      "DefaultItem": "Epona's Song"
+    },
+    "Day 1 Grave Tablet": {
+      "Name": "Day 1 Grave Tablet",
+      "Address": 0,
+      "Region": "Ikana Graveyard",
+      "ID": 24039,
+      "DefaultItem": "Song of Storms"
+    },
+    "Imprisoned Monkey": {
+      "Name": "Imprisoned Monkey",
+      "Address": 0,
+      "Region": "Deku Palace",
+      "ID": 24040,
+      "DefaultItem": "Sonata of Awakening"
+    },
+    "Baby Goron": {
+      "Name": "Baby Goron",
+      "Address": 0,
+      "Region": "Goron Village",
+      "ID": 24041,
+      "DefaultItem": "Goron Lullaby"
+    },
+    "Baby Zoras": {
+      "Name": "Baby Zoras",
+      "Address": 0,
+      "Region": "Great Bay Coast",
+      "ID": 24042,
+      "DefaultItem": "New Wave Bossa Nova"
+    },
+    "Ikana King": {
+      "Name": "Ikana King",
+      "Address": 0,
+      "Region": "Ikana Castle",
+      "ID": 24043,
+      "DefaultItem": "Elegy of Emptiness"
+    },
+    "Boss Blue Warp": {
+      "Name": "Boss Blue Warp",
+      "Address": 0,
+      "Region": "",
+      "ID": 24044,
+      "DefaultItem": "Oath to Order"
+    }
+  },
+  "regions": [
+    {
+      "Name": "Misc",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Woodfall Temple",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Snowhead Temple",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Great Bay Temple",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Stone Tower Temple",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "West Clock Town",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Deku Palace",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Goron Village",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Southern Swamp",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Pirates' Fortress Interior",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Ikana Canyon",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "North Clock Town",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Beneath the Well",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "East Clock Town",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Road to Ikana",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Laundry Pool",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Romani Ranch",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Mountain Village",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Stock Pot Inn",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Termina Field",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Milk Road",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Ikana Graveyard",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Great Bay Coast",
+      "Type": "",
+      "Hint": ""
+    },
+    {
+      "Name": "Ikana Castle",
+      "Type": "",
+      "Hint": ""
+    }
+  ]
+}
